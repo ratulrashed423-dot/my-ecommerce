@@ -1,0 +1,33 @@
+{
+  "name": "ecommerce-frontend",
+  "version": "1.0.0",
+  "description": "E-commerce frontend with Next.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "axios": "^1.3.4",
+    "zustand": "^4.3.8",
+    "jwt-decode": "^3.1.2",
+    "react-icons": "^4.7.1",
+    "swiper": "^9.1.0",
+    "react-swiper": "^0.0.2",
+    "react-toastify": "^9.1.3",
+    "stripe": "^11.18.0",
+    "next-image-export-optimizer": "^2.2.15"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.33.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
