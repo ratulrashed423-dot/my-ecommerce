@@ -21,7 +21,7 @@
     "react-swiper": "^0.0.2",
     "react-toastify": "^9.1.3",
     "stripe": "^11.18.0",
-    "next-image-export-optimizer": "^2.2.15"
+    "next-image-export-optimizer": "latest"
   },
   "devDependencies": {
     "tailwindcss": "^3.2.7",
@@ -31,3 +31,4 @@
     "eslint-config-next": "^14.0.0"
   }
 }
+
